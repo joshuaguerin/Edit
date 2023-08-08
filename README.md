@@ -10,6 +10,9 @@ The basic design incorporates elements of Emacs/Vim, with a custom Python-based 
 * a time-based autosave system inspired by Emacs,
 * some very basic minibuffer action.
 
+## Use
+**Note: To do**
+
 ## Bugs
 
 Lots! I haven't really had the time to touch the source in years, so I'm confident that things have broken since then.
